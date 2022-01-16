@@ -14,3 +14,11 @@ C:\Users\Eliseu\Desktop\DIO\aulaC#\estudosCsharp\primeiroContatoCsharp\obj\Debug
 C:\Users\Eliseu\Desktop\DIO\aulaC#\estudosCsharp\primeiroContatoCsharp\obj\Debug\primeiroContatoCsharp.csproj.CoreCompileInputs.cache
 C:\Users\Eliseu\Desktop\DIO\aulaC#\estudosCsharp\primeiroContatoCsharp\obj\Debug\primeiroContatoCsharp.exe
 C:\Users\Eliseu\Desktop\DIO\aulaC#\estudosCsharp\primeiroContatoCsharp\obj\Debug\primeiroContatoCsharp.pdb
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\estudosCsharp\primeiroContatoCsharp\bin\Debug\primeiroContatoCsharp.exe.config
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\estudosCsharp\primeiroContatoCsharp\bin\Debug\primeiroContatoCsharp.exe
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\estudosCsharp\primeiroContatoCsharp\bin\Debug\primeiroContatoCsharp.pdb
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\estudosCsharp\primeiroContatoCsharp\obj\Debug\primeiroContatoCsharp.csproj.AssemblyReference.cache
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\estudosCsharp\primeiroContatoCsharp\obj\Debug\primeiroContatoCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\estudosCsharp\primeiroContatoCsharp\obj\Debug\primeiroContatoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\estudosCsharp\primeiroContatoCsharp\obj\Debug\primeiroContatoCsharp.exe
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\estudosCsharp\primeiroContatoCsharp\obj\Debug\primeiroContatoCsharp.pdb
