@@ -1,0 +1,8 @@
+"Lembrete/ Passos"
+
+[Passos]
+- Cataloguei
+- Primeira condição adicionada |(MTB's mais populares)|
+
+[proximo passo]
+- Segunda condição

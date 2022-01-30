@@ -1,0 +1,15 @@
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\bin\Debug\net6.0\inicioPOO.exe
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\bin\Debug\net6.0\inicioPOO.deps.json
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\bin\Debug\net6.0\inicioPOO.runtimeconfig.json
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\bin\Debug\net6.0\inicioPOO.dll
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\bin\Debug\net6.0\ref\inicioPOO.dll
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\bin\Debug\net6.0\inicioPOO.pdb
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\obj\Debug\net6.0\inicioPOO.csproj.AssemblyReference.cache
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\obj\Debug\net6.0\inicioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\obj\Debug\net6.0\inicioPOO.AssemblyInfoInputs.cache
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\obj\Debug\net6.0\inicioPOO.AssemblyInfo.cs
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\obj\Debug\net6.0\inicioPOO.csproj.CoreCompileInputs.cache
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\obj\Debug\net6.0\inicioPOO.dll
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\obj\Debug\net6.0\ref\inicioPOO.dll
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\obj\Debug\net6.0\inicioPOO.pdb
+C:\Users\Eliseu\Desktop\DIO\inicio-ao-CS\inicioPOO\obj\Debug\net6.0\inicioPOO.genruntimeconfig.cache
