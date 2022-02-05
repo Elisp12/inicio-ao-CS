@@ -4,18 +4,19 @@ namespace inicioPOO.models
 {
     public class menu 
     {
-        public string nomeMod {get; set;}
-        public string cor {get; set;}
-        public float vlcd {get; set;}
-        public int tm {get; set;}
-    
-        public virtual void mostrar()
+        private string nome;
+        private string modelo;
+        private string marca;
+
+        public menu(string nome, string modelo, string marca)
         {
-            menu c1 = new menu();
-            c1.cor ="Preto";
-            menu c2 = new menu();
-            c2.cor ="Cinza";
-            Console.WriteLine($"Cor: {c1.cor}, {c2.cor}");
+            this.nome = nome;
+            this.modelo = modelo;
+            this.marca =  marca;
+        }
+        public void mostrar()
+        {
+            Console.WriteLine($"Nome: {nome} \nModelo: {modelo} \nMarca: {marca}\n\n");
         }
     }
 }
